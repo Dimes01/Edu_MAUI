@@ -14,9 +14,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NET MAUI/MVVM/INotifyPropertyChanged.md",
+                "file": "Установка/Установка на Windows.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             },
             "group": "c40231ba88944b2f"
@@ -34,8 +34,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NET MAUI/MVVM/INotifyPropertyChanged.md",
-                "mode": "preview",
+                "file": "Установка/Установка на Windows.md",
+                "mode": "source",
                 "source": false
               }
             },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NET MAUI/MVVM/INotifyPropertyChanged.md",
+                "file": "Установка/Установка на Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NET MAUI/MVVM/INotifyPropertyChanged.md",
+                "file": "Установка/Установка на Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NET MAUI/MVVM/INotifyPropertyChanged.md"
+                "file": "Установка/Установка на Windows.md"
               }
             }
           }
@@ -168,8 +168,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "3750d313a944359b",
+  "active": "96b2c434575145a1",
   "lastOpenFiles": [
+    "Прочее/Visual Studio/Установка пакета для MAUI.png",
+    "Прочее/Visual Studio/окно добавления элемента.md",
+    "Прочее/Скриншоты/Grid Пример сетки.png",
+    "Прочее/Скриншоты/Пример для Border.png",
+    "Прочее/Visual Studio Code/добавление нового файла по шаблону.md",
+    "Прочее/Visual Studio Code/Добавление файла по шаблону.png",
+    "Установка/Установка на Windows.md",
+    "Установка/Установка на Ubuntu.md",
+    "NET MAUI/MVVM/INotifyPropertyChanged.md",
     "Учебный курс по MAUI.docx",
     "Учебный курс по MAUI с Linux.docx",
     "~$ебный курс по MAUI с Linux.docx",
@@ -177,17 +186,14 @@
     "Рекомендуемый порядок изучения.md",
     "NET MAUI/MVVM/MVVM.md",
     "Источники.md",
-    "NET MAUI/MVVM/INotifyPropertyChanged.md",
     "NET MAUI/MVVM/Command.md",
     "NET MAUI/MVVM/Binding.md",
     "NET MAUI/MVVM/Bindable Property.md",
     "NET MAUI/MVVM/Привязка.md",
     "NET MAUI/Макеты (слои)/Border.md",
-    "Прочее/Скриншоты/Пример для Border.png",
     "NET MAUI/Макеты (слои)/StackLayout.md",
     "NET MAUI/Макеты (слои)/Grid.md",
     "NET MAUI/Макеты (слои)/FlexLayout.md",
-    "Прочее/Скриншоты/Grid Пример сетки.png",
     "Примеры/Единицы левее двоек/_Единицы левее двоек.md",
     "Примеры/Единицы левее двоек/Страницы.md",
     "NET MAUI/Страницы/NavigationPage.md",
@@ -197,19 +203,13 @@
     "NET MAUI/Страницы/TabbedPage.md",
     "NET MAUI/Страницы/NavigationPage.md",
     "NET MAUI/Страницы/FlyoutPage.md",
-    "NET MAUI/Страницы/ContentPage.md",
-    "NET MAUI/Без названия.md",
-    "Прочее/Скриншоты/Добавление файла по шаблону.png",
     "Pasted image 20231230143938.png",
     "Pasted image 20231230143825.png",
-    "Прочее/Visual Studio Code/добавление нового файла по шаблону.md",
-    "Прочее/Visual Studio/окно добавления элемента.md",
     "Прочее/Скриншоты",
     "Прочее",
     "Прочее/Visual Studio Code",
     "Прочее/Visual Studio",
     "NET MAUI/Элементы управления/Для работы с текстом",
-    "NET MAUI/Элементы управления",
-    "NET MAUI/Шаблоны"
+    "NET MAUI/Элементы управления"
   ]
 }
