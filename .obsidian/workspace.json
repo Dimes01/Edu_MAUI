@@ -6,7 +6,7 @@
       {
         "id": "f644828199c06d4f",
         "type": "tabs",
-        "dimension": 52.15736040609137,
+        "dimension": 52.41116751269036,
         "children": [
           {
             "id": "96b2c434575145a1",
@@ -14,9 +14,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Установка/Установка на Windows.md",
+                "file": "Рекомендуемый порядок изучения.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             },
             "group": "c40231ba88944b2f"
@@ -26,7 +26,7 @@
       {
         "id": "d984f1030753c9bf",
         "type": "tabs",
-        "dimension": 47.84263959390863,
+        "dimension": 47.588832487309645,
         "children": [
           {
             "id": "97a35834afc03c22",
@@ -34,9 +34,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Установка/Установка на Windows.md",
-                "mode": "source",
-                "source": false
+                "file": "Рекомендуемый порядок изучения.md",
+                "mode": "preview",
+                "source": true
               }
             },
             "group": "c40231ba88944b2f"
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Установка/Установка на Windows.md",
+                "file": "Рекомендуемый порядок изучения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Установка/Установка на Windows.md",
+                "file": "Рекомендуемый порядок изучения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Установка/Установка на Windows.md"
+                "file": "Рекомендуемый порядок изучения.md"
               }
             }
           }
@@ -170,46 +170,47 @@
   },
   "active": "96b2c434575145a1",
   "lastOpenFiles": [
+    "Установка/Установка на Ubuntu.md",
+    "NET MAUI/Жесты/Tap.md",
+    "NET MAUI/Жесты/Pan.md",
+    "NET MAUI/Жесты/Drag and drop.md",
+    "Источники.md",
+    "Рекомендуемый порядок изучения.md",
+    "NET MAUI/Элементы управления/Button.md",
+    "NET MAUI/Элементы управления/RadioButton.md",
+    "NET MAUI/Элементы управления/ContentView.md",
+    "NET MAUI/Элементы управления/Picker.md",
+    "NET MAUI/Элементы управления/ListView.md",
+    "NET MAUI/Элементы управления/Entry.md",
+    "NET MAUI/Элементы управления/Editor.md",
+    "NET MAUI/Элементы управления/CheckBox.md",
+    "NET MAUI/Элементы управления/Label.md",
+    "NET MAUI/Элементы управления",
+    "NET MAUI/MVVM/MVVM.md",
+    "NET MAUI/MVVM/INotifyPropertyChanged.md",
+    "NET MAUI/MVVM/Command.md",
+    "NET MAUI/MVVM/Binding.md",
+    "NET MAUI/MVVM/Bindable Property.md",
+    "NET MAUI/MVVM/Привязка.md",
+    "Установка/Установка на Windows.md",
     "Прочее/Visual Studio/Установка пакета для MAUI.png",
     "Прочее/Visual Studio/окно добавления элемента.md",
     "Прочее/Скриншоты/Grid Пример сетки.png",
     "Прочее/Скриншоты/Пример для Border.png",
     "Прочее/Visual Studio Code/добавление нового файла по шаблону.md",
     "Прочее/Visual Studio Code/Добавление файла по шаблону.png",
-    "Установка/Установка на Windows.md",
-    "Установка/Установка на Ubuntu.md",
-    "NET MAUI/MVVM/INotifyPropertyChanged.md",
     "Учебный курс по MAUI.docx",
     "Учебный курс по MAUI с Linux.docx",
     "~$ебный курс по MAUI с Linux.docx",
     "~$ебный курс по MAUI.docx",
-    "Рекомендуемый порядок изучения.md",
-    "NET MAUI/MVVM/MVVM.md",
-    "Источники.md",
-    "NET MAUI/MVVM/Command.md",
-    "NET MAUI/MVVM/Binding.md",
-    "NET MAUI/MVVM/Bindable Property.md",
-    "NET MAUI/MVVM/Привязка.md",
     "NET MAUI/Макеты (слои)/Border.md",
     "NET MAUI/Макеты (слои)/StackLayout.md",
-    "NET MAUI/Макеты (слои)/Grid.md",
-    "NET MAUI/Макеты (слои)/FlexLayout.md",
-    "Примеры/Единицы левее двоек/_Единицы левее двоек.md",
-    "Примеры/Единицы левее двоек/Страницы.md",
-    "NET MAUI/Страницы/NavigationPage.md",
-    "NET MAUI/Страницы/TabbedPage.md",
-    "NET MAUI/Страницы/FlyoutPage.md",
-    "NET MAUI/Страницы/Страницы.md",
-    "NET MAUI/Страницы/TabbedPage.md",
-    "NET MAUI/Страницы/NavigationPage.md",
-    "NET MAUI/Страницы/FlyoutPage.md",
     "Pasted image 20231230143938.png",
     "Pasted image 20231230143825.png",
     "Прочее/Скриншоты",
     "Прочее",
     "Прочее/Visual Studio Code",
     "Прочее/Visual Studio",
-    "NET MAUI/Элементы управления/Для работы с текстом",
-    "NET MAUI/Элементы управления"
+    "NET MAUI/Элементы управления/Для работы с текстом"
   ]
 }
