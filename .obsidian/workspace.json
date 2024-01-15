@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f644828199c06d4f",
+        "id": "d984f1030753c9bf",
         "type": "tabs",
-        "dimension": 52.41116751269036,
         "children": [
           {
-            "id": "96b2c434575145a1",
+            "id": "97a35834afc03c22",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,27 +18,26 @@
                 "source": true
               }
             },
-            "group": "c40231ba88944b2f"
+            "group": "17938dc76f358973"
           }
         ]
       },
       {
-        "id": "d984f1030753c9bf",
+        "id": "93bf27224be99f0e",
         "type": "tabs",
-        "dimension": 47.588832487309645,
         "children": [
           {
-            "id": "97a35834afc03c22",
+            "id": "adc8239cca3208ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             },
-            "group": "c40231ba88944b2f"
+            "group": "17938dc76f358973"
           }
         ]
       }
@@ -168,12 +166,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "96b2c434575145a1",
+  "active": "3750d313a944359b",
   "lastOpenFiles": [
-    "Установка/Установка на Ubuntu.md",
-    "README.md",
-    "Установка/Установка на Windows.md",
     "Рекомендуемый порядок изучения.md",
+    "README.md",
+    "Установка/Установка на Ubuntu.md",
+    "Установка/Установка на Windows.md",
+    "NET MAUI/MVVM/MVVM.md",
+    "NET MAUI/MVVM/Привязка.md",
+    "NET MAUI/Макеты (слои)/Grid.md",
+    "Источники.md",
     "NET MAUI/Макеты (слои)/BindableLayout.md",
     "NET MAUI/Элементы управления/ScrollView.md",
     "NET MAUI/Элементы управления/Без названия.md",
@@ -183,7 +185,6 @@
     "NET MAUI/Жесты/Tap.md",
     "NET MAUI/Жесты/Pan.md",
     "NET MAUI/Жесты/Drag and drop.md",
-    "Источники.md",
     "NET MAUI/Элементы управления/Button.md",
     "NET MAUI/Элементы управления/RadioButton.md",
     "NET MAUI/Элементы управления/ContentView.md",
@@ -194,9 +195,6 @@
     "NET MAUI/Элементы управления/CheckBox.md",
     "NET MAUI/Элементы управления/Label.md",
     "NET MAUI/Элементы управления",
-    "NET MAUI/MVVM/MVVM.md",
-    "NET MAUI/MVVM/INotifyPropertyChanged.md",
-    "NET MAUI/MVVM/Command.md",
     "Прочее/Visual Studio/Установка пакета для MAUI.png",
     "Прочее/Скриншоты/Grid Пример сетки.png",
     "Прочее/Скриншоты/Пример для Border.png",
