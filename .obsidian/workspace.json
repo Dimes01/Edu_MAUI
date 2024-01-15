@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Рекомендуемый порядок изучения.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,8 +34,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Рекомендуемый порядок изучения.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               }
             },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Рекомендуемый порядок изучения.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Рекомендуемый порядок изучения.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Рекомендуемый порядок изучения.md"
+                "file": "README.md"
               }
             }
           }
@@ -170,14 +170,16 @@
   },
   "active": "96b2c434575145a1",
   "lastOpenFiles": [
-    "NET MAUI/Макеты (слои)/BindableLayout.md",
+    "Установка/Установка на Ubuntu.md",
+    "README.md",
+    "Установка/Установка на Windows.md",
     "Рекомендуемый порядок изучения.md",
+    "NET MAUI/Макеты (слои)/BindableLayout.md",
     "NET MAUI/Элементы управления/ScrollView.md",
     "NET MAUI/Элементы управления/Без названия.md",
     "NET MAUI/Элементы управления/Scrollview (2).md",
     "NavigationPage.md",
     "TabbedPage.md",
-    "Установка/Установка на Ubuntu.md",
     "NET MAUI/Жесты/Tap.md",
     "NET MAUI/Жесты/Pan.md",
     "NET MAUI/Жесты/Drag and drop.md",
@@ -195,8 +197,6 @@
     "NET MAUI/MVVM/MVVM.md",
     "NET MAUI/MVVM/INotifyPropertyChanged.md",
     "NET MAUI/MVVM/Command.md",
-    "NET MAUI/MVVM/Binding.md",
-    "NET MAUI/MVVM/Bindable Property.md",
     "Прочее/Visual Studio/Установка пакета для MAUI.png",
     "Прочее/Скриншоты/Grid Пример сетки.png",
     "Прочее/Скриншоты/Пример для Border.png",
