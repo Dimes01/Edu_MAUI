@@ -59,24 +59,24 @@ sudo apt-get install msopenjdk-11
 # Установка Android Studio
 
 Android Studio нужна для установки SDK для Android. Для этого воспользуемся Ubuntu Software. 
-![[Android Studio в Ubuntu Software.png]]
+![Android Studio в Ubuntu Software](Прочее/Скриншоты/Android%20Studio%20в%20Ubuntu%20Software.png)
 
 Тип установки необходимо выбрать `Standard`.
-![[Тип установки Android Studio.png]]
+![Тип установки Android Studio](Прочее/Скриншоты/Тип%20установки%20Android%20Studio.png)
 
 После этого можно просто нажимать `Next`, пока не начнётся установка. После установки необходимо запустить Android Studio и в приветственном окне нажать на выпадающий список `More Actions`, где выбрать `SDK Manager`.
-![[Выбор SDK Manager в Android Studio.png]]
+![Выбор SDK Manager в Android Studio](Прочее/Скриншоты/Выбор%20SDK%20Manager%20в%20Android%20Studio.png)
 
 Изначально выбран SDK последней версии, однако я установлю ещё и SDK для Android 11 (API 30), так как для отладки буду использовать реальное устройство на Android 11.
-![[Выбор SDK Platforms.png]]
+![Выбор SDK Platforms(Прочее/Скриншоты/Выбор%20SDK%20Platforms.png)
 
 # Установка Visual Studio Code
 Также, как и Android Studio, устанавливаем VS Code, а затем устанавливаем расширение `.NET MAUI`.
-![[Расширение NET MAUI для VS Code.png]]
+![Расширение NET MAUI для VS Code](Прочее/Скриншоты/Расширение%20NET%20MAUI%20для%20VS Code.png)
 
 # Итог
 Если всё получилось, то в Visual Studio Code можно будет создать шаблон приложения .NET MAUI.
-![[Шаблон для создания приложения MAUI.png]]
+![Шаблон для создания приложения MAUI](Прочее/Скриншоты/Шаблон%20для%20создания%20приложения%20MAUI.png)
 
 Однако файл проекта ещё надо настроить. Для этого откроем файл с расширением `.csproj` и сделаем следующее.
 
