@@ -11,7 +11,7 @@
 	2. [Установка на Ubuntu](Установка/Установка%20на%20Ubuntu.md)
 2. [Страницы](NET%20MAUI/Страницы/Страницы.md)
 	1. [ContentPage](NET%20MAUI/Страницы/ContentPage.md) - наиболее часто используемая страница
-	2. `--`[FlyoutPage](NET%20MAUI/Страницы/TabbedPage.md) - страница с всплывающей частью
+	2. [FlyoutPage](NET%20MAUI/Страницы/FlyoutPage.md) - страница с всплывающей частью
 	3. `--`[TabbedPage](NET%20MAUI/Страницы/TabbedPage.md) - страница с вкладками
 	4. `--`[NavigationPage](NET%20MAUI/Страницы/NavigationPage.md) - страница с возможностями навигации
 3. Макеты
