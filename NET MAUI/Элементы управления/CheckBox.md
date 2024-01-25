@@ -20,4 +20,5 @@ void OnCheckBoxCheckedChanged(object sender, CheckedChangedEventArgs e)
 
 ## Базовое изменение внешнего вида
 У данного элемента возможно установить цвет с помощью свойства `Color`.
-![Check_Цвета](/Прочее/Скриншоты/CheckBox_Цвета.png)
+
+![CheckBox_Цвета](/Прочее/Скриншоты/CheckBox_Цвета.png)
