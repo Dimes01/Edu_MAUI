@@ -22,7 +22,7 @@
 	5. [Border](NET%20MAUI/Макеты%20(слои)/Border.md) - макет, позволяющий сделать границу для других макетов
 4. Элементы управления
 	1. [Button](NET%20MAUI/Элементы%20управления/Button.md)
-	2. `--`[CheckBox](NET%20MAUI/Элементы%20управления/CheckBox.md)
+	2. [CheckBox](NET%20MAUI/Элементы%20управления/CheckBox.md)
 	3. `--`[RadioButton](NET%20MAUI/Элементы%20управления/RadioButton.md)
 	4. `--`[Editor](NET%20MAUI/Элементы%20управления/Editor.md)
 	5. `--`[Entry](NET%20MAUI/Элементы%20управления/Entry.md)
