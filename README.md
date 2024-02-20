@@ -20,34 +20,26 @@
 	3. [AbsoluteLayout](NET%20MAUI/Макеты%20(слои)/AbsoluteLayout.md) - макет с абсолютным расположением элементов
 	4. `--`[FlexLayout](NET%20MAUI/Макеты%20(слои)/FlexLayout.md) - макет, похожий на стек, но одновременно по 2 направлениям
 	5. [Border](NET%20MAUI/Макеты%20(слои)/Border.md) - макет, позволяющий сделать границу для других макетов
-4. Элементы управления
-	1. [Button](NET%20MAUI/Элементы%20управления/Button.md)
-	2. [CheckBox](NET%20MAUI/Элементы%20управления/CheckBox.md)
-	3. `--`[RadioButton](NET%20MAUI/Элементы%20управления/RadioButton.md)
-	4. `--`[Editor](NET%20MAUI/Элементы%20управления/Editor.md)
-	5. `--`[Entry](NET%20MAUI/Элементы%20управления/Entry.md)
-	6. `--`[Label](NET%20MAUI/Элементы%20управления/Label.md)
-	7. `--`[ListView](NET%20MAUI/Элементы%20управления/ListView.md)
-	8. `--`[Picker](NET%20MAUI/Элементы%20управления/Picker.md)
-	9. Шаблоны
-		1. `--`[ControlTemplate](NET%20MAUI/Элементы%20управления/Шаблоны/ControlTemplate.md)
-		2. `--`[DataTemplate](NET%20MAUI/Элементы%20управления/Шаблоны/DataTemplate.md)
-	10. `--`[ContentView](NET%20MAUI/Элементы%20управления/ContentView.md) - пользовательский элемент управления
-5. Жесты
+4. [Элементы управления](NET%20MAUI/Элементы%20управления/Элементы%20управления.md)
+5. Кастомизация элементов управления
+	1. `--`[ControlTemplate](NET%20MAUI/Элементы%20управления/ControlTemplate.md)
+	2. `--`[DataTemplate](NET%20MAUI/Элементы%20управления/DataTemplate.md)
+	3. `--`[ContentView](NET%20MAUI/Элементы%20управления/ContentView.md) - пользовательский элемент управления
+6. Жесты
 	1. [Tap](NET%20MAUI/Жесты/Tap.md) - нажатие
 	2. `--`[Swipe](NET%20MAUI/Жесты/Swipe.md) - сдвиг
 	3. `--`[Pan](NET%20MAUI/Жесты/Pan.md) - панорамирование
 	4. `--`[Pinch](NET%20MAUI/Жесты/Pinch.md) - приближение/отдаление
 	5. `--`[Pointer](NET%20MAUI/Жесты/Pointer.md)
 	6. `--`[Drag and drop](NET%20MAUI/Жесты/Drag%20and%20drop.md) - перемещение чего-либо
-6. Паттерн MVVM
+7. Паттерн MVVM
 	1. [MVVM](NET%20MAUI/MVVM/MVVM.md) - общее представление о паттерне и примеры
 	2. [Привязка](NET%20MAUI/MVVM/Привязка.md) - механизм привязки
 	3. [Binding](NET%20MAUI/MVVM/Binding.md) - подробнее о привязке
 	4. [Bindable Property](NET%20MAUI/MVVM/Bindable%20Property.md) - свойство, используемое для привязки во View
 	5. [INotifyPropertyChanged](NET%20MAUI/MVVM/INotifyPropertyChanged.md) - интерфейс, позволяющий создавать свойства для привязки во ViewModel
 	6. [Command](NET%20MAUI/MVVM/Command.md) - подробнее о командах
-7.  Стили и кастомизация
+8.  Стили и кастомизация
 	1. `--`[Стили](NET%20MAUI/Стили/Стили.md) - общее представление о стилях
 	2. `--`[Словари стилей](NET%20MAUI/Стили/Словари%20стилей.md) - словари для хранения стилей
 	3. `--`[Триггеры](NET%20MAUI/Стили/Триггеры.md)
